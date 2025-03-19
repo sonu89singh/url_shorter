@@ -1,0 +1,13 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "main": "url.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "url": "file:"
+  }
+}
